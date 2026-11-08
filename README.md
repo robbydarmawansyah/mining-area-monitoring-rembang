@@ -80,6 +80,35 @@ Candidate areas are preliminary screening results, not confirmed mining location
 - Google Earth Pro
 - Remote Sensing and GIS
 
+## Repository Structure
+
+```text
+mining-area-monitoring-rembang/
+│
+├── README.md
+├── LICENSE
+│
+├── scripts/
+│   └── gee_mining_area_monitoring.js
+│
+├── docs/
+│   ├── methodology.md
+│   └── results.md
+│
+└── outputs/
+    └── tables/
+        ├── regional/
+        │   └── rembang_annual_landcover_statistics.csv
+        │
+        └── saf_pilot_area/
+            ├── SAF_Candidate_Rangking_2025.csv
+            ├── SAF_Candidate_Temporal_Monitoring_2018_2025.csv
+            ├── SAF_Change_Area_Statistics_2018_2025.csv
+            ├── SAF_Corrected_Temporal_Statistics.csv
+            ├── SAF_Full_Transition_Matrix_2018_2025.csv
+            └── SAF_LandCover_2018_2025.csv
+
+
 ## Author
 
 **Robby Darmawansyah**  
