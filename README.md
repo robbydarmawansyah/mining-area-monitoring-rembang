@@ -80,6 +80,17 @@ Candidate areas are preliminary screening results, not confirmed mining location
 - Google Earth Pro
 - Remote Sensing and GIS
 
+
+## Author
+
+**Robby Darmawansyah, S.T.**  
+Geomatics Engineering | GIS & Remote Sensing
+
+---
+
+Project status: Prototype completed; further validation and refinement are ongoing.
+
+
 ## Repository Structure
 
 ```text
@@ -107,13 +118,3 @@ mining-area-monitoring-rembang/
             ├── SAF_Corrected_Temporal_Statistics.csv
             ├── SAF_Full_Transition_Matrix_2018_2025.csv
             └── SAF_LandCover_2018_2025.csv
-
-
-## Author
-
-**Robby Darmawansyah, S.T.**  
-Geomatics Engineering | GIS & Remote Sensing
-
----
-
-Project status: Prototype completed; further validation and refinement are ongoing.
