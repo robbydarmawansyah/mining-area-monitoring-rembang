@@ -108,10 +108,6 @@ mining-area-monitoring-rembang/
             ├── SAF_Full_Transition_Matrix_2018_2025.csv
             └── SAF_LandCover_2018_2025.csv
 
-
-
-
-
 ## Author
 
 **Robby Darmawansyah, S.T.**  
