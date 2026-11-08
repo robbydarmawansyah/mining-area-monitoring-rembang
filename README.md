@@ -109,10 +109,10 @@ mining-area-monitoring-rembang/
 └── outputs/
     └── tables/
         ├── regional/
-        │   └── rembang_annual_landcover_statistics.csv
+        │   └── Rembang_Annual_LandCover_Statistics.csv
         │
         └── saf_pilot_area/
-            ├── SAF_Candidate_Rangking_2025.csv
+            ├── SAF_Candidate_Ranking_2025.csv
             ├── SAF_Candidate_Temporal_Monitoring_2018_2025.csv
             ├── SAF_Change_Area_Statistics_2018_2025.csv
             ├── SAF_Corrected_Temporal_Statistics.csv
