@@ -1,0 +1,9 @@
+system:index,area_ha,class_id,class_name,year,.geo
+1_0,0.2245056687298943,0,Vegetation,2018,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1_1,39.85714874779783,1,Agriculture,2018,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1_2,119.60604391997832,2,Bare / Open Land,2018,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1_3,269.48630348881625,3,Built-up,2018,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2_0,23.925288022173724,0,Vegetation,2025,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2_1,282.62542923838714,1,Agriculture,2025,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2_2,93.38699990218922,2,Bare / Open Land,2025,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2_3,29.236284662571332,3,Built-up,2025,"{""type"":""MultiPoint"",""coordinates"":[]}"

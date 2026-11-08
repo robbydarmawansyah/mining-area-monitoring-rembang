@@ -1,0 +1,4 @@
+system:index,area_ha,change_type,.geo
+0,73.71858441293786,Persistent Bare Land,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,19.66841548925063,New Bare Land,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,45.88745950703939,Bare to Non-Bare,"{""type"":""MultiPoint"",""coordinates"":[]}"
